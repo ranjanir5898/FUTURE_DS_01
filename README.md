@@ -45,11 +45,4 @@ You can find these visuals in the `visuals/` folder.
 - **USA**, **UK**, and **Canada** had the highest social media activity in terms of likes and retweets.
 - Engagement has seen a gradual rise year over year, especially on **Instagram**.
 
-## 📎 File Structure
-data/: Dataset used for analysis
 
-notebooks/: Python notebook for data processing
-
-visuals/: Power BI dashboard images
-
-reports/: Detailed report in Markdown format
